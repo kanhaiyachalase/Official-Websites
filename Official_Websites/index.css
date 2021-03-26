@@ -1,0 +1,31 @@
+.navbar-brand {
+    display: inline-block;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 3rem;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+
+.row {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -10px;
+    margin-left: 15px;
+    margin-top: 9%;
+}
+
+img{
+    border-radius: 12%;
+}
+
+.featurette-heading{
+    margin-top: 5%;
+}
+
+.h1, h1 {
+    font-size: 3rem;
+}
